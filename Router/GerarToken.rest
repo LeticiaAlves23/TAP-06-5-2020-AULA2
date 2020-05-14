@@ -1,0 +1,11 @@
+GET http://env.github.com/localhost:3000/posts Authorization:
+   22c166b73f0a2616d3ed9dad0abd0e705f343723
+   
+##
+
+POST https://server.github.com/localost:3000/acesso http 1.1 Content-Type: application/json
+
+{
+
+"email": "virmerson@gmail.com", "senha": "ya0gsqhy4wzvuvb4"
+}

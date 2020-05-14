@@ -1,0 +1,20 @@
+{
+  "name": "Token",
+  "version": "0.2.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-e2e-cypress": "~4.3.0",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-pwa": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-typescript": "~4.3.0",
+    "@vue/cli-plugin-unit-mocha": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "nodejs": "0.0.0"
+  }
+}

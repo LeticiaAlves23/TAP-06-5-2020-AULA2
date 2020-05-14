@@ -1,0 +1,9 @@
+POST url HTTP/localhost:3000/validartoken
+
+Token:
+  eyjhbGciOiJIUz1NisInR5cCI6IkpXVCJ9.
+  eyJ1bWFpbCI6IImF5bGFuQGJvc2Nhcmluby5
+  tb20iLCJwYXNzd29yZCI6InIhMGdzcWh5NHd6dnV
+  2YjQifQ.yN58Mge0mFgsnYHnPEh_ZzNP7YKvSbQ3
+  Alug9HMCsM
+  
